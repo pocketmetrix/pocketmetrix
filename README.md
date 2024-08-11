@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pocketmetrix
-- 👀 I’m interested in Data Analytics and Data Analysis
+- :bar_chart: I’m interested in Data Analytics and Data Analysis
 - 🌱 I’m currently learning Data Analysis and Data Visualization
 - 📫 How to reach me: @pocketmetrix on all social media platforms
 - 😄 Pronouns: He/Him
